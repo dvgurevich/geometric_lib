@@ -17,6 +17,7 @@ Functions used to calculate the area and perimeter of geometric shapes(rectangle
 
 ### circle.py
 - area(r)
+
 Description: calculates area of a circle with giving radius=r.
 
 Example:
@@ -29,6 +30,7 @@ Example:
     '3.141592653589793'
 
 - perimeter(r)
+
 Description: calculates perimeter of a circle with giving radius=r.
 
 Example:
@@ -41,7 +43,9 @@ Example:
     '6.283185307179586'
 
 ### square.py
+
 - area(r)
+
 Description: calculates area of a circle with given side=a.
 
 Example:
@@ -55,6 +59,7 @@ Example:
     '1.0'
 
 - perimeter(r)
+
 Description: calculates perimeter of a circle with given side=a.
 
 Example:
